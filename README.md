@@ -1,4 +1,5 @@
-djangoapp
-=========
+# Please Do Not Use this 
 
-Not intend for any usage
+This is used for trying/test only, not purposed for any special usage.
+
+Pleaes ignore this repository
